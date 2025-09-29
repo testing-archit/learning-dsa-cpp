@@ -1,1 +1,6 @@
-Abdul69gay , everyone fucks him
+Enter the name of the student 
+Enter the roll no of the student 
+Enter the marks of the student out of 100:  
+Name of the student is Archit
+Roll no  of the student is 43
+Marks of the student is 99
